@@ -1,0 +1,67 @@
+/* make all buttons 20 by 20 pixels with white text and green background and a 10 pixel margin */
+html{
+  font-size: 55px;
+  background-color: black;
+  color: white;
+}
+
+
+body{
+  font-family: "Georgia", serif;
+}
+ button {
+   margin: 5px;
+
+ }
+
+ .table{
+   font-size: 35px;
+ }
+
+.dial_number{
+  font-size: 55px;
+  background-color: black;
+  color: white;
+  border: 2px solid #4CAF50;
+  border-radius: 12px;
+}
+
+.dial_buttons{
+  font-size: 45px;
+  background-color: black;
+  color: white;
+  border: 2px solid #4CAF50;
+  border-radius: 12px;
+}
+
+.contact_name{
+  font-size: 45px;
+  background-color: black;
+  color: white;
+  border: 2px solid #4CAF50;
+  border-radius: 12px;
+}
+
+.contact_button{
+  font-size: 45px;
+  background-color: black;
+  color: white;
+  border: 2px solid #4CAF50;
+  border-radius: 12px;
+}
+
+.tab{
+  font-size: 45px;
+  background-color: black;
+  color: white;
+  border: 2px solid #4CAF50;
+  border-radius: 12px;
+}
+
+
+.text{
+  padding: 20px 30px;
+  width: auto;
+  background-color: black;
+  color: white;
+}
